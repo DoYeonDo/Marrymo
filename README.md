@@ -1,5 +1,5 @@
-# 🥉 Marrymo (모바일 청첩장 제작 및 축의금 내역 문서화 서비스)
-### SSAFY 10기 특화 프로젝트(핀테크) 4반 3위 :v: 팀 했다치고 :v: <br /> (2024.02.26 ~ 2024.04.04)![marrymo introduction](https://github.com/Marrymo-s/Marrymo/assets/93860089/b4889b66-42af-4214-8ab4-31d09e8a695f)
+![image](https://github.com/Marrymo-s/Marrymo/assets/84389492/786361a6-e018-4692-8cb0-44e41c68c73c)# 🥉 Marrymo (모바일 청첩장 제작 및 축의금 내역 문서화 서비스)
+### SSAFY 10기 특화 프로젝트(핀테크) 4반 3위 :v: 팀 했다치고 :v: <br /> (2024.02.26 ~ 2024.04.04)![marrymo introduction](https://github.com/Marrymo-s/Marrymo/assets/84389492/0c4e1f82-39a7-40bb-95e3-6b828b36be1e)
 
 ## :notebook_with_decorative_cover: 목차 :notebook_with_decorative_cover:
 :one: [프로젝트 소개](#1-프로젝트-소개) <br/>
@@ -89,9 +89,10 @@
 :pushpin: <b>Deploy 브랜치에서 E2E 테스트 수행</b> <br />
 :pushpin: <b>Deploy의 하위 브랜치 dep/FE와 dep/BE에서 CI/CD 수행</b>
 #### marrymo 
-![marrymo branch](https://github.com/Marrymo-s/Marrymo/assets/93860089/fac81857-9bee-40d1-8eef-67fda8ce7a55)
+![marrymo branch](https://github.com/Marrymo-s/Marrymo/assets/84389492/d5d1fae9-9fec-4e69-aa8b-91532d5d5bfe)
+
 #### bank
-![bank branch](https://github.com/Marrymo-s/Marrymo/assets/93860089/0ea629bf-ea5d-4f25-8961-0e9e9fc2ead5)
+![bank branch](https://github.com/Marrymo-s/Marrymo/assets/84389492/08b68f11-0b35-4f12-a080-97f5efe5af24)
 
 ## 5. 기능별 페이지
 ## 부부
@@ -105,65 +106,70 @@
 
 |청첩장 정보를 등록 했을 경우|
 |:---:|
-|![로그인 시 청첩장 등록 되었음](https://github.com/Marrymo-s/Marrymo/assets/93860089/9e007d3c-42ba-4dd4-a70c-82fad4f87b57)|
+|![로그인 시 청첩장 등록 되었음](https://github.com/Marrymo-s/Marrymo/assets/84389492/516c7cf5-0ccc-41d1-8dbd-fe11183f8eac)|
+
 
 #### 위시리스트 검색 및 등록
 <b>예비 부부는 네이버 검색 API를 통해서 위시 리스트를 검색 할 수 있고 펀딩 받고 싶은 위시 리스트 등록 가능</b>
 |위시리스트 검색 및 등록 화면|
 |:---:|
-|![위시리스트 검색 및 등록](https://github.com/Marrymo-s/Marrymo/assets/93860089/3de8088b-dfec-45cf-9f98-e78b5359acad)|
+|![위시리스트 검색 및 등록](https://github.com/Marrymo-s/Marrymo/assets/84389492/5320db00-ca0b-4733-b2ee-9664e32ebf0a)|
 
 #### 위시리스트 상세 조회
 <b>예비 부부는 등록한 위시리스트 상세 정보를 조회 가능(위시 아이템 제품명, 현재까지 모인 펀딩 금액, 모금 마감일, 펀딩 인원수)</b>
 |위시리스트 상세 조회 화면|
 |:---:|
-|![위시리스트 상세 조회](https://github.com/Marrymo-s/Marrymo/assets/93860089/8a27f282-c0ea-4872-9681-c17a7189321a)|
+|![위시리스트 상세 조회]((https://github.com/Marrymo-s/Marrymo/assets/84389492/6baa944e-8f0b-48ab-8403-7f5ea7ba293a)|
 
 #### 축의금 내역 조회
 <b>예비 부부는 하객들로부터 받은 축의금 내역을 조회 가능</b>
 |축의금 내역 조회 화면|
 |:---:|
-|![축의금 내역 조회](https://github.com/Marrymo-s/Marrymo/assets/93860089/9e8faa01-cfd3-4b05-a4de-c6c72be33313)|
+|![축의금 내역 조회](https://github.com/Marrymo-s/Marrymo/assets/84389492/53ae19fb-6196-4a9d-aabd-c3f05ef35edb)|
+
 
 #### 축의금 정산 내역 메일로 수신
 <b>예비 부부는 모바일 청첩장을 최종 발급한 바로 다음 날 새벽 3시에 인증한 메일로 축의금 정산 내역을 엑셀 파일로 수신 받음</b>
 |축의금 정산 내역 메일로 수신|
 |:---:|
-|![축의금 정산 내역 엑셀](https://github.com/Marrymo-s/Marrymo/assets/93860089/3839f0a5-0adb-40ae-8d37-0086b309c1ac)|
+|![축의금 정산 내역 엑셀](https://github.com/Marrymo-s/Marrymo/assets/84389492/1bed041e-87ad-457e-9851-87b30c663311)|
 
 ## 하객
 #### 모바일 청첩장 조회
 <b>하객은 예비 부부가 보낸 링크를 통해 로그인 없이 모바일 청첩장을 조회할 수 있음</b>
 |모바일 청첩장 조회 화면|
 |:---:|
-|![녹화_2024_04_04_01_42_34_538](https://github.com/Marrymo-s/Marrymo/assets/93860089/ac84ba81-4ddb-472c-9e05-7de93f693071)|
+|![모바일 청첩장 조회 화](https://github.com/Marrymo-s/Marrymo/assets/84389492/ffbf859b-9e2a-4f11-80f0-966cf594ae35)|
+
 
 #### 위시 리스트 펀딩
 <b>하객은 예비 부부가 등록 해놓은 위시 리스트 펀딩 가능</b>
 |위시리스트 펀딩 화면|
 |:---:|
-|![위시리스트 펀딩](https://github.com/Marrymo-s/Marrymo/assets/93860089/c12b7d9e-01ff-4243-8a6c-139280fbcfdc)|
+|![위시리스트 펀딩](https://github.com/Marrymo-s/Marrymo/assets/84389492/882928ea-7aa9-4e0d-9abe-ef77602d97a8)|
 
 #### 축의금 송금
 <b>하객은 신랑, 신부 중 누구에게 축의금을 송금할지 고른 후 카카오 페이를 통하여 송금 가능</b>
 |축의금 송금 화면|
 |:---:|
-|![축의금 송금](https://github.com/Marrymo-s/Marrymo/assets/93860089/39d61f25-e38d-4fbe-8e14-5fecf40d3448)|
+|![축의금 송금](https://github.com/Marrymo-s/Marrymo/assets/84389492/d19da8a1-7d97-4282-8daf-bac1754f0aed)|
 
 ## 6. 핀테크 프로젝트 특징 기술 소개
 #### 계좌 등록
 오픈 뱅킹 API : 사용자 인증 API -> 토큰 발급 API -> 등록 계좌 조회 API <br />
-![오픈뱅킹API 로직](https://github.com/Marrymo-s/Marrymo/assets/93860089/f33f8f92-5510-4032-8a92-a10b41d25c80)
+![오픈뱅킹API 로직](https://github.com/Marrymo-s/Marrymo/assets/84389492/a496bd02-0005-4a81-b3d1-422302df11bb)
 
 #### 송금
 카카오 페이 단건 결제 API <br />
-![카카오 단건 결제 API 로직](https://github.com/Marrymo-s/Marrymo/assets/93860089/a0c59ba3-267b-4d73-b95f-24205c99b8d2)
+![카카오 단건 결제 API 로직](https://github.com/Marrymo-s/Marrymo/assets/84389492/ccb735de-6be7-445f-8bf1-969c59b9c3f1)
 
 ## 7. 트러블 슈팅
 #### Backend
 #### Open Banking API(토큰 발급 API) Web Client를 통해 호출
-![토큰 발급 api-1](https://github.com/Marrymo-s/Marrymo/assets/93860089/fcc26019-ee6e-48eb-872f-11b9c402fa4b)
-![토큰 발급 api-1](https://github.com/Marrymo-s/Marrymo/assets/93860089/fcc26019-ee6e-48eb-872f-11b9c402fa4b)
+![토큰 발급 api-1](https://github.com/Marrymo-s/Marrymo/assets/84389492/fa5e9652-5b5a-4bce-a58a-097935490aae)
+
+![토큰 발급 api-1](https://github.com/Marrymo-s/Marrymo/assets/84389492/124e147b-1735-40e0-82cf-3847dc59df1e)
+
 - <b>문제 원인</b> <br />
 request body에 Map이 아닌 객체의 형태로 보내려고 해서 발생한 문제
 
@@ -219,21 +225,21 @@ return openBankingWebClient
 
 ## 8. 설계 문서
 #### API
-![UserController](https://github.com/Marrymo-s/Marrymo/assets/93860089/7f25c0d9-99da-4480-b420-b193446e033f)
+![UserController](https://github.com/Marrymo-s/Marrymo/assets/84389492/b0097b74-fa24-45cd-8443-f3ed2e680076)
 
-![WishItemController](https://github.com/Marrymo-s/Marrymo/assets/93860089/83940aaa-0f15-4261-a7d9-a2ecce506513)
+![WishItemController](https://github.com/Marrymo-s/Marrymo/assets/84389492/2c0ed86c-09fd-4f86-9d56-7d67cc754602)
 
-![SmtpController](https://github.com/Marrymo-s/Marrymo/assets/93860089/2dcaa3b7-cbae-4e22-8ee3-3b4adcf45caf)
+![SmtpController](https://github.com/Marrymo-s/Marrymo/assets/84389492/24eb3a2d-7596-4ffb-9501-6d598cd72261)
 
-![OpenBankingController](https://github.com/Marrymo-s/Marrymo/assets/93860089/2d0b804b-0203-4146-bdc4-65a01758dc19)
+![OpenBankingController](https://github.com/Marrymo-s/Marrymo/assets/84389492/1bb306c4-a416-4e00-a1a0-44e7593c831b)
 
-![MoneyGiftController](https://github.com/Marrymo-s/Marrymo/assets/93860089/1bcbddef-eb12-4158-954c-3d7616345934)
+![MoneyGiftController](https://github.com/Marrymo-s/Marrymo/assets/84389492/b3abe1b0-042f-4c02-a4f0-23d35285cae8)
 
 #### ERD
-![Marrymo](https://github.com/Marrymo-s/Marrymo/assets/93860089/8a966185-29c1-458b-a2d4-f8dec1f51085)
+![Marrymo](https://github.com/Marrymo-s/Marrymo/assets/84389492/ce663312-ee84-49d3-a3e4-ab540383e65e)
 
 #### Architecture Structure
-![Architecture Structure](https://github.com/Marrymo-s/Marrymo/assets/93860089/7a376829-a9ca-442f-b2aa-1078cd80bb51)
+![Architecture Structure](https://github.com/Marrymo-s/Marrymo/assets/84389492/6e450a59-0051-4278-a026-7b3141506337)
 
 ## 9. 팀원 소개 및 역할
 #### :cherry_blossom: 김재윤 (Team Leader)
