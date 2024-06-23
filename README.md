@@ -1,4 +1,4 @@
-![image](https://github.com/Marrymo-s/Marrymo/assets/84389492/786361a6-e018-4692-8cb0-44e41c68c73c)# 🥉 Marrymo (모바일 청첩장 제작 및 축의금 내역 문서화 서비스)
+# 🥉 Marrymo (모바일 청첩장 제작 및 축의금 내역 문서화 서비스)
 ### SSAFY 10기 특화 프로젝트(핀테크) 4반 3위 :v: 팀 했다치고 :v: <br /> (2024.02.26 ~ 2024.04.04)![marrymo introduction](https://github.com/Marrymo-s/Marrymo/assets/84389492/0c4e1f82-39a7-40bb-95e3-6b828b36be1e)
 
 ## :notebook_with_decorative_cover: 목차 :notebook_with_decorative_cover:
