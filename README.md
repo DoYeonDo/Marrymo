@@ -106,53 +106,53 @@
 
 |청첩장 정보를 등록 했을 경우|
 |:---:|
-|![로그인 시 청첩장 등록 되었음](https://github.com/Marrymo-s/Marrymo/assets/84389492/516c7cf5-0ccc-41d1-8dbd-fe11183f8eac)|
+|![로그인_시_청첩장_등록_되었음](https://github.com/Marrymo-s/Marrymo/assets/84389492/e964f3d2-3bf7-4e1c-900d-47e1c94d20fd)|
 
 
 #### 위시리스트 검색 및 등록
 <b>예비 부부는 네이버 검색 API를 통해서 위시 리스트를 검색 할 수 있고 펀딩 받고 싶은 위시 리스트 등록 가능</b>
 |위시리스트 검색 및 등록 화면|
 |:---:|
-|![위시리스트 검색 및 등록](https://github.com/Marrymo-s/Marrymo/assets/84389492/5320db00-ca0b-4733-b2ee-9664e32ebf0a)|
+|![위시리스트_검색_및_등록](https://github.com/Marrymo-s/Marrymo/assets/84389492/a9c8d86f-6a4e-4686-84d9-93f315137b0b)|
 
 #### 위시리스트 상세 조회
 <b>예비 부부는 등록한 위시리스트 상세 정보를 조회 가능(위시 아이템 제품명, 현재까지 모인 펀딩 금액, 모금 마감일, 펀딩 인원수)</b>
 |위시리스트 상세 조회 화면|
 |:---:|
-|![위시리스트 상세 조회]((https://github.com/Marrymo-s/Marrymo/assets/84389492/6baa944e-8f0b-48ab-8403-7f5ea7ba293a)|
+|![위시리스트_상세_조회](https://github.com/Marrymo-s/Marrymo/assets/84389492/2d613703-1b58-4d90-84b4-a0ab9038b9c7)|
 
 #### 축의금 내역 조회
 <b>예비 부부는 하객들로부터 받은 축의금 내역을 조회 가능</b>
 |축의금 내역 조회 화면|
 |:---:|
-|![축의금 내역 조회](https://github.com/Marrymo-s/Marrymo/assets/84389492/53ae19fb-6196-4a9d-aabd-c3f05ef35edb)|
+|![축의금_내역_조회](https://github.com/Marrymo-s/Marrymo/assets/84389492/27f89aea-0b79-454a-8994-85feec9b2928)|
 
 
 #### 축의금 정산 내역 메일로 수신
 <b>예비 부부는 모바일 청첩장을 최종 발급한 바로 다음 날 새벽 3시에 인증한 메일로 축의금 정산 내역을 엑셀 파일로 수신 받음</b>
 |축의금 정산 내역 메일로 수신|
 |:---:|
-|![축의금 정산 내역 엑셀](https://github.com/Marrymo-s/Marrymo/assets/84389492/1bed041e-87ad-457e-9851-87b30c663311)|
+|![축의금_정산_내역_엑셀](https://github.com/Marrymo-s/Marrymo/assets/84389492/48bf5584-4ffe-4717-a02f-f03783ecf824)|
 
 ## 하객
 #### 모바일 청첩장 조회
 <b>하객은 예비 부부가 보낸 링크를 통해 로그인 없이 모바일 청첩장을 조회할 수 있음</b>
 |모바일 청첩장 조회 화면|
 |:---:|
-|![모바일 청첩장 조회 화](https://github.com/Marrymo-s/Marrymo/assets/84389492/ffbf859b-9e2a-4f11-80f0-966cf594ae35)|
+|![모바일청첩장조회화면](https://github.com/Marrymo-s/Marrymo/assets/84389492/755b8456-837d-4479-8c56-9219dddacc28)|
 
 
 #### 위시 리스트 펀딩
 <b>하객은 예비 부부가 등록 해놓은 위시 리스트 펀딩 가능</b>
 |위시리스트 펀딩 화면|
 |:---:|
-|![위시리스트 펀딩](https://github.com/Marrymo-s/Marrymo/assets/84389492/882928ea-7aa9-4e0d-9abe-ef77602d97a8)|
+|![위시리스트_펀딩](https://github.com/Marrymo-s/Marrymo/assets/84389492/d4fce9d1-25f1-4e5f-a48b-b584692efb1b)|
 
 #### 축의금 송금
 <b>하객은 신랑, 신부 중 누구에게 축의금을 송금할지 고른 후 카카오 페이를 통하여 송금 가능</b>
 |축의금 송금 화면|
 |:---:|
-|![축의금 송금](https://github.com/Marrymo-s/Marrymo/assets/84389492/d19da8a1-7d97-4282-8daf-bac1754f0aed)|
+|![축의금_송금](https://github.com/Marrymo-s/Marrymo/assets/84389492/14b559a7-3faf-40e9-8f37-43051e800f4a)|
 
 ## 6. 핀테크 프로젝트 특징 기술 소개
 #### 계좌 등록
