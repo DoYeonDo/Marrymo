@@ -102,7 +102,8 @@
 <b>청첩장 정보 등록 시 축의금 정산 내역을 메일로 수신 받기 위해 메일 인증을 해야 함</b>
 |청첩장 정보를 등록하지 않았을 경우|
 |:---:|
-|![청첩장 등록](https://github.com/Marrymo-s/Marrymo/assets/84389492/a537960d-4604-47d7-9c89-a75761c7e491)|
+|![청첩장 등록](https://github.com/Marrymo-s/Marrymo/assets/84389492/11e808dc-e96d-4c3f-b1cc-6c318211676b)|
+|[자세히 보기](https://github.com/Marrymo-s/Marrymo/assets/84389492/a537960d-4604-47d7-9c89-a75761c7e491)|
 
 |청첩장 정보를 등록 했을 경우|
 |:---:|
